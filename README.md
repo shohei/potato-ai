@@ -2,6 +2,9 @@
 ```
 python potato.py
 ```
+```
+python potato-md.py
+```
 ![](image/kijun.png)
 
 ## PDFから直接読んだ場合
