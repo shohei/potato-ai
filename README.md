@@ -1,4 +1,4 @@
-#potato ai
+# Potato AI
 ```
 python potato.py
 ```
