@@ -21,6 +21,9 @@ $ python potato.py
 ```
 
 ## PDFをMarkdownに変換してから読んだ場合
+PDF->MDの変換には次のサイトを使った
+[https://pdf2md.morethan.io/](https://pdf2md.morethan.io/)
+
 表の構造を理解している
 
 ```
