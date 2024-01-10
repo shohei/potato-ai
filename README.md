@@ -1,7 +1,26 @@
 # Potato AI
+
+## Web application
+![](image/app.png)
+
+```
+$ ./start.sh
+```
+
+or
+
+```
+$ streamlit python webapp.py
+```
+
+## Standalone program
+
+
 ```
 python potato.py
 ```
+or 
+
 ```
 python potato-md.py
 ```
